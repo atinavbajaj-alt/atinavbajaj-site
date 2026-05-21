@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Ask My Agent | Atinav Bajaj</title>
+  <meta name="description" content="Ask Atinav Bajaj's profile agent about his product management experience, skills, and background." />
+  <link rel="stylesheet" href="agent.css" />
+</head>
+
+<body>
+  <main class="chat-shell">
+    <header class="chat-header">
+      <div>
+        <a class="back-link" href="index.html">← Back to site</a>
+        <h1>Ask My Agent</h1>
+        <p>
+          Ask questions about my product management experience, skills, background, and resume.
+          The agent only answers from my resume and LinkedIn notes.
+        </p>
+      </div>
+
+      <div class="header-actions">
+        <a href="assets/Atinav_Bajaj_Resume.pdf" download>Resume</a>
+        <a href="contact.html">Contact</a>
+      </div>
+    </header>
+
+    <section class="chat-panel">
+      <div id="messages" class="messages">
+        <div class="message assistant">
+          <div class="bubble">
+            Hi, I’m Atinav’s profile agent. You can ask things like:
+            <br><br>
+            “Summarize Atinav in 3 lines.”<br>
+            “What product areas has he worked on?”<br>
+            “What are his strongest PM achievements?”
+          </div>
+        </div>
+      </div>
+
+      <form id="chat-form" class="chat-input-row">
+        <input
+          id="chat-input"
+          type="text"
+          autocomplete="off"
+          placeholder="Ask about Atinav’s product experience..."
+          maxlength="1000"
+        />
+        <button type="submit">Send</button>
+      </form>
+    </section>
+  </main>
+
+  <script src="agent.js"></script>
+</body>
+</html>

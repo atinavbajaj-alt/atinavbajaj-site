@@ -1,0 +1,185 @@
+Contact
+8185085911 (Mobile)
+atinavbajaj@gmail.com
+www.linkedin.com/in/atinavbajaj
+(LinkedIn)
+atinavbajaj.wordpress.com/ (Blog)
+Atinav Bajaj
+Senior Product Manager | Enterprise SaaS & Platform PM | APIs,
+Integrations, Workflow Automation, Developer Experience &
+Enterprise UX
+Greater Hyderabad Area
+Top Skills
+Software Product Management
+Software as a Service (SaaS)
+API
+Languages
+Hindi (Native or Bilingual)
+English (Native or Bilingual)
+Certifications
+Product Management Certification
+Program
+Honors-Awards
+Bronze Medal Employee Award
+(Best new employee)
+Gold Medal Employee Award
+Gold medal national winner United
+Nations +23 WHS India program
+Summary
+I’m a Senior Product Manager with 8+ years of experience
+building enterprise SaaS platforms, workflow systems, integration
+products, and data-heavy B2B tools. My work has typically sat
+at the intersection of complex customer workflows, technical
+platforms, and enterprise usability: simplifying configuration-heavy
+products, improving onboarding and activation, modernizing legacy
+workflows, and helping teams turn fragmented customer input
+into structured product roadmaps. Across Productsup, Celigo,
+Techolution and FactSet, I’ve worked on products involving APIs,
+automation flows, product data syndication, workflow deployment,
+analytics, auditability, and enterprise-grade platform capabilities. I’m
+especially effective in environments where the product is technically
+complex, the user journeys are operationally heavy, and the PM
+role requires strong discovery, prioritization, stakeholder alignment,
+and close collaboration with engineering. Some areas I’ve worked
+on: • Platform product management for SaaS, APIs, integrations,
+and workflow systems • Enterprise onboarding, configuration,
+and time-to-value improvements • Developer-like experiences for
+business and power users • Product analytics, adoption tracking,
+customer research, and problem discovery • Roadmap definition
+from ambiguous inputs across customers, GTM, support, and
+engineering • Post-acquisition platform unification, identity/workflow
+alignment, and cross-team execution I’m most interested in product
+roles where I can help simplify complex B2B systems, define product
+direction from messy inputs, and build scalable platform capabilities
+that improve adoption, reliability, and customer trust.
+Experience
+Celigo
+Senior Product Manager
+July 2025 - April 2026 (10 months)
+Page 1 of 5
+• Shaped product direction for native file management capabilities intended to
+simplify flow-to-flow staging, reference file handling, and enterprise automation
+setup.
+• Defined roadmap themes for deployment and lifecycle management
+workflows, focusing on change visibility, reuse, conflict handling, and
+enterprise control.
+• Partnered with engineering and customer-facing teams to identify friction
+in deployment workflows and translate customer pain points into prioritized
+product improvements.
+• Worked on workflow reuse and dependency visibility to reduce duplication,
+improve manageability, and make complex integrations easier to maintain.
+• Created onboarding and enablement material for builders, including hands-on
+labs and deployment best-practice guidance to improve time-to-value for new
+users.
+Productsup
+4 years 3 months
+Senior Product Manager
+February 2023 - July 2025 (2 years 6 months)
+Hyderabad
+Owned product areas across onboarding, data configuration, mapping
+workflows, publishing, auditability, and platform usability for enterprise product
+data operations.
+• Improved onboarding and configuration workflows by simplifying rule-based
+setup, reducing manual effort, and introducing clearer guidance for complex
+customer use cases.
+• Led product work on AI-assisted recommendations for rulebox selection and
+configuration, helping users understand suggested transformations and move
+faster through setup.
+• Built and scaled eCatalog / Content Portal capabilities from early customer
+needs into a structured add-on product opportunity.
+• Introduced auditability and publishing improvements that gave enterprise
+users clearer visibility into what changed, who changed it, and when changes
+were made.
+• Contributed to post-acquisition platform unification across identity, workflows,
+and user experience, aligning multiple PMs, engineering teams, and senior
+stakeholders.
+• Served as a product analytics point of contact using Heap, helping teams
+improve event tracking, usage analysis, and product decision-making.
+Page 2 of 5
+• Mentored an intern over 8 months, supporting their transition into a full-time
+Product Manager role.
+Product Manager
+May 2021 - February 2023 (1 year 10 months)
+Techolution
+Product Manager
+October 2019 - April 2021 (1 year 7 months)
+Hyderabad Area, India
+Product Manager for IPCypris (cypris.ai), working with the CEO to develop the
+product vision, our roadmaps and also managing all the general PO activities
+required to deliver a new product.
+The product was built from pre revenue (0-1 and beyond) and required a pivot
+and a from scratch Product Market Fit so understanding where the value prop
+lies to delivery of new features and integrations, and also onboarding of first
+few customers came under my purview.
+Helped with PMM activities, worked directly with recruitment and managed
+product related expenses as the sole PM of this product. Regularly interact
+with our users to understand pain points and redirect product strategy.
+Parallel to Product Management, I also had a chance to work as a Project
+Manager with various organisations. Delivered cloud migration projects worth
+>USD450k of various sizes from kick off to closure (primarily GCP and Anthos)
+FactSet
+Associate Product Specialist
+September 2018 - September 2019 (1 year 1 month)
+Hyderabad Area, India
+First official stint for Product Development. Started as a Product specialist but
+took over the role of a Product Owner for Factset's RMS product.
+Worked with a Sr Product Managers, managed the backlog, scrum cadences
+and prioritisation for a scrum team.
+Worked with the team to deliver performance improvements for data retrieval
+in the newer versions of the tool.
+Page 3 of 5
+The product I worked on was a late stage matured product, worked on
+recognising clients to move over to v2 (or the new) RMS solution based on
+feature usage and PMF.
+JSS Pro Services Pvt Ltd
+Strategy
+April 2018 - August 2018 (5 months)
+Hyderabad Area, India
+Worked directly with the CEO at JSS in the ideation, and execution of
+multiple internal process improvements across the various verticals within the
+company.
+This includes
+- Creating a idle resource model used organisation wide
+- Planning and implementing an internal communication model based on agile
+frameworks of iterative work
+- Coordinate between teams for kick off sessions with new customers
+From a strategic POV
+- Recognise client gaps and propose initiatives such as vCFO services,
+business plan review etc.
+- Creation of project report, pitch deck and client requirement gathering for
+SEZ projects (which is clients wanting to open businesses and leverage SEZ
+tax breaks)
+- Recognising avenues for equity and debt raise for our clients.
+Miscellaneous
+Took initiative for PR activities for the organisation resulting in better visibility
+(magazines and interviews)
+Angaros Capital
+Intern - Financial Analyst
+April 2017 - June 2017 (3 months)
+Hyderabad Area, India
+Worked with a diligent team to create financial models and pitch decks for
+equity raise for early stage startups looking to scale their organisations. Learnt
+from a team consisting of multiple experienced CFAs and worked alongside a
+design team to create pitch decks.
+Page 4 of 5
+Also helped create a process for retrieval of investor data and creation of
+priority investor database for the org.
+IBM
+Technical Analyst
+September 2014 - May 2016 (1 year 9 months)
+Fixed issues/resolved issues based on a platform/database known as PIE
+for clients Carphone Warehouse based in UK, active directory, escalations
+from C - level requests and a senior agent for Connected World Services for
+Apple stores based in UK, related to connection issues and policy updates to
+business or development teams as required.
+Responsible for making and changing the RICOH dispatch role (hardware
+issues) into a email only process reducing our tech support teams AHT to
+acceptable levels based on our SLAs
+Hands on training for new employees/team mates.
+Education
+Narsee Monjee Institute of Management Studies(NMIMS),
+Hyderabad
+Master of Business Administration (MBA), Finance · (2016 - 2018)
+Amrita Institute Of Technology Science
+Bachelor of Engineering (B.E.), Computer Science and Engineering · (2014)
+Page 5 of 5

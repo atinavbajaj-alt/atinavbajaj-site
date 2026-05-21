@@ -1,0 +1,69 @@
+Atinav Bajaj
+Hyderabad, India | +91 8185085911 | atinavbajaj@gmail.com | LinkedIn
+Career Summary
+● Senior Product Manager with 8+ years of experience building and scaling enterprise SaaS platforms and
+integration systems. Proven track record of delivering measurable impact including 83% onboarding
+reduction, $100K+ ARR generation, and large-scale platform improvements.
+● Strong expertise in platform products, APIs, workflow systems with a deep focus on simplifying complex
+enterprise use cases and reducing time to value.
+● Experienced product leader skilled in customer discovery, problem definition, and translating insights into
+scalable product solutions. Data-driven decision maker with hands-on experience in product analytics,
+experimentation, and KPI ownership.
+Work Experience
+Senior Product Manager – Celigo | Jul 2025 – Mar 2026
+● Drove platform evolution for enterprise automation workflows, specifically launching Managed File Storage to
+cut automation setup time by 50% and streamline onboarding for new accounts and our Agentic AI use case.
+● Revitalized the deployment experience based on deep enterprise customer partnership, resolving visibility
+issues to boost CSAT from 15% to 50%.
+● Optimized resource efficiency by redesigning workflow reuse and dependency management, leading to a
+35% reduction in duplicate resource creation.
+● Defined and executed a multi-quarter roadmap for developer style deployment workflows.
+● Accelerated user activation and time-to-value by building onboarding labs and best practices for new users.
+Senior Product Manager – Productsup | May 2021 – Jul 2025
+● Managed the core onboarding and configuration systems processing approximately 2 trillion SKUs monthly
+across 2,500+ channels, achieving an 83% reduction in onboarding time (from 12 to 2 hours) via scalable AI
+workflows and configurable reusable workflow patterns.
+● Generated $100K in ARR by launching the E-Catalog product (0-to-1) and successfully drove 40% adoption
+in three months for a new rule-based workflow system.
+● Championed data integrity and clarity by deploying a version-controlled publishing system that cut internal
+queries by 90%, and introducing activity logs that eliminated 100% of "who/when/where" troubleshooting
+queries.
+● Orchestrated the post-acquisition platform unification strategy for identity and workflows, managing a complex
+cross-functional roadmap (3 PMs, 14 engineers) with C-level collaboration.
+● Served as the organizational subject matter expert for product analytics (using Heap), acting as the central
+point of contact and conducting workshops to train designers on best practices.
+● Mentored an intern for 8 months who secured a full-time Product Manager role at the company. Built our very
+first AI dataservice with him allowing users to BYOM to use LLMs to optimise product data.
+Product Manager – Techolution | Oct 2019 – Apr 2021
+● Scaled cypris.ai from a conceptual, pre-revenue state to an established product generating over $40K+ ARR.
+● Established foundational product management discipline, implementing structured processes and
+prioritization frameworks to significantly improve delivery predictability.
+● Developed efficient data ingestion and research workflows, streamlining manual efforts and boosting overall
+output quality.
+Associate Product Specialist – FactSet | Sep 2018 – Sep 2019
+● Product owner for Factset’s wealth management solutions with personas such as Hedge funds, sovereign
+funds, and family offices.
+● Drove a strategic product migration to the cloud platform, successfully reducing operational costs associated
+with maintaining two similar legacy products.
+● Spearheaded critical system reliability improvements for the research management platform, managing
+releases that accelerated data retrieval speed by 10x–100x.
+● Improved system stability by championing the long-overdue initiative to increase code coverage from 60% to
+80%, acting as a shield for the development team to ensure focus and delivery.
+Technical Support Associate – IBM India | Sep 2014 – May 2016
+● Redesigned support processes to cut call handling time by 50%, earning Service Excellence recognition for
+efficiency and quality of service.
+Core Skills
+● Platform Product Management (APIs, SaaS, Integrations)
+● AI Product Fluency (LLM workflows, RAG, agents, MCP, LangChain, LangGraph, prompt design, basic
+Python)
+● Rapid Prototyping (Replit, Lovable, Figma, low-code/no-code validation)
+● Inbound Product Management & Customer Discovery
+● Developer Experience & Workflow Systems, Automation
+● Roadmap Strategy & Prioritization (Roadmaps, PRDs, KPIs, GTM)
+● Product Analytics & Experimentation (Heap, SQL, Pendo)
+● Enterprise UX & Adoption Optimization
+● Cross-functional Leadership (Engineering, Design, GTM)
+● Agile scrum (JIRA, Confluence, CSPO (Oct 2022))
+Education
+● MBA – Narsee Monjee Institute of Management Studies (2018)
+● B.Tech – Amrita School of Engineering (2014)
